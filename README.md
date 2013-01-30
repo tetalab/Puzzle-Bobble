@@ -5,5 +5,8 @@ Puzzle-Bobble
 
 
 use StandardFrimata example on the arduino
+
 use common cathode RGB strip.leds
+
 use Advancedmame and this version on puzzlebobble pbobble.zip
+
