@@ -57,7 +57,7 @@ Couper les pointes des poteaux. Ceux-ci doivent faire à peu pres 52cm.
 
 Découper 2 octogone de 30cmx30cm dans des planches de 1cm maxi.
 
-Sur chaque octogone percer 8 trous de diam 10 avec 4 trous à 4cm du bord et 4 autres à 3.5cm. Cela permet de disposer les poteaux parfaitement. Le mieux aurait �t� de partir de planches d�coup�es en cercle au lieu d'octogone mais bon je suis partis comme ca alors j'ai continu� sur ma lanc�e.
+Sur chaque octogone percer 8 trous de diam 10 avec 4 trous à 4cm du bord et 4 autres à 3.5cm. Cela permet de disposer les poteaux parfaitement. Le mieux aurait été de partir de planches découpées en cercle au lieu d'octogone mais bon je suis partis comme ca alors j'ai continué sur ma lancée.
 
 
 Percer chaque poteau coté pointe à peu prés 5cm du bord. Le mieux étant de vérifier la disposition des poteaux sur la planche octogonale.
@@ -70,13 +70,13 @@ Percer le centre de chaque octogone et y faire passer et fixer une tige filetée
 
 Pour le support de la roue découper 2 planche de 60x92. Percer un trou au milieu de chaque planche à 6cm du haut. Avec une meche plate de 22 faire un trou de 1cm de profondeur pour y loger un roulement.
 
-Pour rigidifier le tout il faudra d�couper 2 planche de 20cm*60 qui seront taillées de facon à s'emboiter parallèlement au 2 supports. Il faudra donc faire 2 entaille de 10cm sur chaque support.
+Pour rigidifier le tout il faudra découper 2 planche de 20cm*60 qui seront taillées de facon à s'emboiter parallèlement au 2 supports. Il faudra donc faire 2 entaille de 10cm sur chaque support.
 
 Une fois la roue enfilée dans les 2 supports il faut sécuriser le tout avec 4 ecrous frein filet.
 
 Pour que ca soit plus joli on peut couper en arrondi les planches du support et les pieds.
 
-Pour la boule de tir il suffit de la fixer en ayant pris soin avant de faire un trou derrière la fixation pour passer les cables. Il faudra avant percer le haut du globe avec une meche plate de 22. Il faut faire gaffe que le plastique ne casse pas. On peu ensuite y ins�rer un bouton arcade.
+Pour la boule de tir il suffit de la fixer en ayant pris soin avant de faire un trou derrière la fixation pour passer les cables. Il faudra avant percer le haut du globe avec une meche plate de 22. Il faut faire gaffe que le plastique ne casse pas. On peu ensuite y insérer un bouton arcade.
 
 Pour finir il faut passer un coup de bombe marron partout et peindre en doré les têtes des visseries.
 
