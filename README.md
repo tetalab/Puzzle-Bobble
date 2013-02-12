@@ -36,28 +36,28 @@ simple test for firmata : http://www.firmata.org/wiki/Main_Page#Firmata_Test_Pro
 Construction:
 
 Pour 1 module:
-- 8 x poteau en bois de 6cm de diam�tre. http://www.leroymerlin.fr/v3/p/produits/piquet-bois-en-pointe-diam-6cm-hauteur-60cm-e15262
-- 8 x boulon + �crou + rondelle. En diam 10mmx120cm t�te 6 pans
-- 8 x boulon + �crou + rondelle. En diam 8mmx100cm avec t�te Po�lier sans empreinte cruciforme.
-- 2 roulement de type roller avec un diam�tre int�rieur de 8mm(trouvable � d�cathlon).
-- 1 x boule d'�clairage de jardin avec globe blanc en plastique (facilement trouvable dans les mag de bricolage). http://boostle.o2switch.net/product/Applique-murale-Globe-blanc-Bali-MASSIVE.html
-- 1 x bouton de type arcade � visser. http://www.starcab.net/product_info.php�cPath=219_163_165&products_id=524
-- 1 x tige filet�e 8mm d'au moins 30 cm.
+- 8 x poteau en bois de 6cm de diamètre. http://www.leroymerlin.fr/v3/p/produits/piquet-bois-en-pointe-diam-6cm-hauteur-60cm-e15262
+- 8 x boulon + écrou + rondelle. En diam 10mmx120cm tête 6 pans
+- 8 x boulon + écrou + rondelle. En diam 8mmx100cm avec tête Poelier sans empreinte cruciforme.
+- 2 roulement de type roller avec un diamètre intérieur de 8mm(trouvable à décathlon).
+- 1 x boule d'éclairage de jardin avec globe blanc en plastique (facilement trouvable dans les mag de bricolage). http://boostle.o2switch.net/product/Applique-murale-Globe-blanc-Bali-MASSIVE.html
+- 1 x bouton de type arcade à visser. http://www.starcab.net/product_info.php�cPath=219_163_165&products_id=524
+- 1 x tige filetée 8mm d'au moins 30 cm.
 - 6 x ecrou 8mm avec frein filet + rondelle.
 - Planche de 1cm maxi.
-- R�cuperer de grandes planche (2cm epaisseur) pour le support. La vieille commode de mamie fera l'affaire.
+- Réuperer de grandes planche (2cm epaisseur) pour le support. La vieille commode de mamie fera l'affaire.
 - 1 grande bombe de peinture marron/chocolat.
-- 1 petite bombe de peinture dor�e.
+- 1 petite bombe de peinture dorée.
 
-Sch�ma des d�coupes :
+Schéma des découpes :
 
 ![dimensions](http://openphoto.tetalab.org/photos/custom/201302/366dee-taitoakbar_870x550.jpg)
 
-Couper les pointes des poteaux. Ceux-ci doivent faire � peu pres 52cm.
+Couper les pointes des poteaux. Ceux-ci doivent faire à peu pres 52cm.
 
-D�couper 2 octogone de 30cmx30cm dans des planches de 1cm maxi.
+Découper 2 octogone de 30cmx30cm dans des planches de 1cm maxi.
 
-Sur chaque octogone percer 8 trous de diam 10 avec 4 trous � 4cm du bord et 4 autres � 3.5cm. Cela permet de disposer les poteaux parfaitement. Le mieux aurait �t� de partir de planches d�coup�es en cercle au lieu d'octogone mais bon je suis partis comme ca alors j'ai continu� sur ma lanc�e.
+Sur chaque octogone percer 8 trous de diam 10 avec 4 trous à 4cm du bord et 4 autres à 3.5cm. Cela permet de disposer les poteaux parfaitement. Le mieux aurait �t� de partir de planches d�coup�es en cercle au lieu d'octogone mais bon je suis partis comme ca alors j'ai continu� sur ma lanc�e.
 
 Percer chaque poteau cot� pointe � peu pr�s 5cm du bord. Le mieux �tant de v�rifier la disposition des poteaux sur la planche octogonale.
 
