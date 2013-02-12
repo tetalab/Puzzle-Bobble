@@ -12,7 +12,8 @@
 //Use this pinout 
 //  Player one Red PWM 3, Green PWM 5, Blue PWM 6
 //  Player one Red PWM 9, Green PWM 10, Blue PWM 11
-  
+//  board shematics avilable here ==> https://raw.github.com/tetalab/Puzzle-Bobble/master/arduino_board.jpg
+
 //Use Advancedmame ==> here ttp://sourceforge.net/projects/advancemame/files/advancemame/1.2/advancemame-1.2-windows-x86.zip/download?_test=updater&utm_expid=65835818-0
 
 //Use this version of puzzlebobble pbobble.zip ==> here http://www.rom-world.com/file.php?id=22341
