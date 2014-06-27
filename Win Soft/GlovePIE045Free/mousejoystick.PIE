@@ -1,0 +1,59 @@
+﻿// Click the RUN Button above -^ to start,
+// The mice must be plugged in before pressing RUN.
+
+// Don't click the title bar of THIS window with the REAL mouse or it will
+// freeze! This includes when it is minimized to the desktop. You can click
+// title bars of other windows with the real mouse, and you can click this
+// window's title bar with any fake mouse.
+
+// Adjust this value to change how far the mouse must travel before
+// the joystick moves (in pixels)
+var.delta1 = 8
+var.delta2 = 16
+//
+// The real cursor is controlled by mouse 1 (the touchpad on a laptop)
+//
+mouse.Swallow = true
+mouse.DirectInputX = mouse.DirectInputX + Delta(mouse1.DirectInputX)
+mouse.DirectInputY = mouse.DirectInputY + Delta(mouse1.DirectInputY)
+mouse.LeftButton = mouse1.LeftButton
+mouse.RightButton = mouse1.RightButton
+mouse.MiddleButton = mouse1.MiddleButton
+mouse.Button1 = mouse1.Button1
+mouse.Button2 = mouse1.Button2
+mouse.Button6 = mouse1.Button6
+mouse.Button7 = mouse1.Button7
+mouse.Button8 = mouse1.Button8
+
+//
+// map mouse buttons to virtual joystick (PPJoy) buttons
+//
+ppjoy1.digital0 = mouse2.LeftButton
+ppjoy2.digital0 = mouse3.LeftButton
+
+//
+// Control the joysticks X-axes with the mice (mouses?)
+//
+if mouse2.DirectInputX - var.MouseOldX1 > var.delta1 then
+   ppjoy1.analog0 = -1
+else if var.MouseOldX1 - mouse2.DirectInputX > var.delta1 then
+   ppjoy1.analog0 = 1
+else
+   ppjoy1.analog0 = 0
+end if
+
+var.MouseOldX1 = mouse2.DirectInputX
+
+if mouse3.DirectInputX - var.MouseOldX2 > var.delta2 then
+   ppjoy2.analog0 = -1
+else if var.MouseOldX2 - mouse3.DirectInputX > var.delta2 then
+   ppjoy2.analog0 = 1
+else
+   ppjoy2.analog0 = 0
+end if
+
+var.MouseOldX2 = mouse3.DirectInputX
+
+
+
+

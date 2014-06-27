@@ -1,0 +1,92 @@
+(0, 09-févr.-2013 14:17:12) Initializing PieLog
+(0, 09-févr.-2013 14:17:12) Initializing filemode variable
+(0, 09-févr.-2013 14:17:12) Initializing PieSpeech
+(0, 09-févr.-2013 14:17:12) Initializing PieVariables
+(0, 09-févr.-2013 14:17:12) Initializing PieCursorUnit
+(0, 09-févr.-2013 14:17:12) Initializing PieMouse
+(0, 09-févr.-2013 14:17:12) Initializing PieKeyboard
+(0, 09-févr.-2013 14:17:12) Initializing PieInput
+(0, 09-févr.-2013 14:17:12) Initializing PieOSC
+(0, 09-févr.-2013 14:17:12) Initializing PiePie
+(0, 09-févr.-2013 14:17:12) Initializing PieFunction
+(0, 09-févr.-2013 14:17:12) Initializing PieStatement
+(0, 09-févr.-2013 14:17:12) Initializing PieExpression
+(0, 09-févr.-2013 14:17:12) Initializing PieJoystick
+(0, 09-févr.-2013 14:17:12) Initializing PieP5
+(0, 09-févr.-2013 14:17:12) Initializing PieMidi
+(0, 09-févr.-2013 14:17:12) Initializing PiePPJoy
+(0, 09-févr.-2013 14:17:12) Initializing PieRemote
+(0, 09-févr.-2013 14:17:12) Initializing Pie Speech Recognition
+(0, 09-févr.-2013 14:17:12) Initializing PieScreen
+(0, 09-févr.-2013 14:17:12) GetMonitorEDID
+(0, 09-févr.-2013 14:17:12) Initializing PieWIndow
+(0, 09-févr.-2013 14:17:12) Initializing PieCursors
+(0, 09-févr.-2013 14:17:12) Initializing PieZ800
+(0, 09-févr.-2013 14:17:12) Initializing PieIntersense
+(0, 09-févr.-2013 14:17:12) Initializing PieFastrak
+(0, 09-févr.-2013 14:17:12) Initializing PiePPT
+(0, 09-févr.-2013 14:17:12) Initializing PieTrackIR
+(0, 09-févr.-2013 14:17:12) Initializing PiePinch
+(0, 09-févr.-2013 14:17:12) Initializing PieBird
+(0, 09-févr.-2013 14:17:12) Initializing PieFiveDT
+(0, 09-févr.-2013 14:17:12) Starting main
+(0, 09-févr.-2013 14:17:12) Application object initialized
+(0, 09-févr.-2013 14:17:12) Creating main window
+(0, 09-févr.-2013 14:17:12) EditorForm.Create
+(0, 09-févr.-2013 14:17:12) Checking command line parameters:
+(0, 09-févr.-2013 14:17:12)   -C:\Users\Lionel\Downloads\taitoAkbar\GlovePIE045Free\MouseJoystick.PIE
+(0, 09-févr.-2013 14:17:12) ClearMidiGui
+(0, 09-févr.-2013 14:17:12)   /r:startgame.bat
+(0, 09-févr.-2013 14:17:12) Creating debug window
+(0, 09-févr.-2013 14:17:12) Assigning exception handler
+(0, 09-févr.-2013 14:17:12) Creating debug remote control window
+(0, 09-févr.-2013 14:17:12) Running application
+(0, 09-févr.-2013 14:17:12) RunButton
+(0, 09-févr.-2013 14:17:12) Compile>Run
+(0, 09-févr.-2013 14:17:12) CompileCode
+(0, 09-févr.-2013 14:17:12) StartingInputMonitor CompileJoystick
+(0, 09-févr.-2013 14:17:12) EnumerateJoysticks
+(0, 09-févr.-2013 14:17:13) Enumerated... BadGamePad = False
+(0, 09-févr.-2013 14:17:13) StartCompileTimeP5 False
+(0, 09-févr.-2013 14:17:13) StoppingInputMonitor CompileJoystick
+(0, 09-févr.-2013 14:17:13) StartRuntime
+(0, 09-févr.-2013 14:17:13) StartingInputMonitor Mouse
+(0, 09-févr.-2013 14:17:13) StartKeyboardMonitor
+(0, 09-févr.-2013 14:17:13) StartingInputMonitor keyboard
+(0, 09-févr.-2013 14:17:13) StartRuntimeJoystick
+(0, 09-févr.-2013 14:17:13) ************************* False
+(0, 09-févr.-2013 21:14:39) StopButton
+(0, 09-févr.-2013 21:14:39) Compile>Stop
+(0, 09-févr.-2013 21:14:39) StopRuntime
+(0, 09-févr.-2013 21:14:39) StoppingInputMonitor Mouse
+(0, 09-févr.-2013 21:14:39) StopKeyboardMonitor
+(0, 09-févr.-2013 21:14:39) StoppingInputMonitor Keyboard
+(0, 09-févr.-2013 21:14:39) StopRuntimeJoystick
+(0, 09-févr.-2013 21:14:43) Destroying EditorForm
+(0, 09-févr.-2013 21:14:43) Finalizing PieFiveDT
+(0, 09-févr.-2013 21:14:43) Finalizing PieBird
+(0, 09-févr.-2013 21:14:43) Finalizing PiePinch
+(0, 09-févr.-2013 21:14:43) Finalizing PieTrackIR
+(0, 09-févr.-2013 21:14:43) Finalizing PiePPT
+(0, 09-févr.-2013 21:14:43) Finalizing PieFastrak
+(0, 09-févr.-2013 21:14:43) Finalizing PieIntersense
+(0, 09-févr.-2013 21:14:43) Finalizing PieZ800
+(0, 09-févr.-2013 21:14:43) Finalizing PieCursors
+(0, 09-févr.-2013 21:14:43) Finalizing PieWindow
+(0, 09-févr.-2013 21:14:43) Finalizing PieScreen
+(0, 09-févr.-2013 21:14:43) Finalizing Pie Speech Recognition
+(0, 09-févr.-2013 21:14:43) Finalizing PieRemote
+(0, 09-févr.-2013 21:14:43) Finalizing PiePPJoy
+(0, 09-févr.-2013 21:14:43) Finalizing PieMidi
+(0, 09-févr.-2013 21:14:43) Finalizing PieP5
+(0, 09-févr.-2013 21:14:43) Finalizing PieJoystick
+(0, 09-févr.-2013 21:14:43) Finalizing PieStatement
+(0, 09-févr.-2013 21:14:43) Finalizing PieFunction
+(0, 09-févr.-2013 21:14:43) Finalizing PiePie
+(0, 09-févr.-2013 21:14:43) Finalizing PieOSC
+(0, 09-févr.-2013 21:14:43) Finalizing PieKeyboard
+(0, 09-févr.-2013 21:14:43) Finalizing PieMouse
+(0, 09-févr.-2013 21:14:43) Finalizing PieVariables
+(0, 09-févr.-2013 21:14:43) Finalizing PieSpeech
+(0, 09-févr.-2013 21:14:43) Finalizing PieLog
+(0, 09-févr.-2013 21:14:43) Closing log file
